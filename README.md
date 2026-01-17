@@ -2,26 +2,6 @@
 
 A modern, user-friendly desktop application for tracking daily action items and tasks. Built with Python and CustomTkinter for a beautiful, modern UI.
 
-## 🚀 Features
-
-- ✨ **Modern Dark UI** - Clean, professional interface with dark theme
-- 📝 **Add Tasks** - Easily add new action items with a simple input field
-- ✏️ **Edit Tasks** - Double-click tasks or use edit button to modify task text
-- ☑️ **Checkbox Management** - Mark tasks as complete/incomplete with checkboxes
-- 🗑️ **Delete Tasks** - Remove individual tasks with delete buttons
-- 📊 **Progress Tracking** - See how many tasks you've completed
-- 💾 **Data Persistence** - Your tasks are automatically saved and restored
-- 🧹 **Bulk Actions** - Clear completed tasks or all tasks at once
-- ⌨️ **Keyboard Shortcuts** - Press Enter to add tasks quickly
-
-## Screenshots
-
-The application features:
-- Clean, modern interface with dark theme
-- Intuitive task management
-- Progress indicators
-- Responsive design that adapts to window size
-
 ## Installation
 
 ### Prerequisites
@@ -133,11 +113,3 @@ python checklist_app.py
 ## License
 
 This project is open source and available under the [LICENSE](LICENSE) file.
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve the application!
-
----
-
-**Enjoy staying organized with your daily checklist! 📋✨**
